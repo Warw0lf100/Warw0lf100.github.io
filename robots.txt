@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://warw0lf100.github.io/sitemap.xml
