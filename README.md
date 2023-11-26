@@ -10,4 +10,4 @@
 
 19.11.23 Drobne zmieny kosmetyczne. Utworzenie plików sitemap.xml i robots.txt. Dodanie witryny do Goggle Search Console oraz Bing Webmaster Tools
 
-26.11.23 Aktualizacja metatagów (keywords)
+26.11.23 Aktualizacja metatagów (keywords), ponowna próba indeksowania strony na Bing
