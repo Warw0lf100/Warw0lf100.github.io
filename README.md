@@ -1,5 +1,7 @@
 # Warw0lf100.github.io
 
+https://warw0lf100.github.io/
+
 12.11.23 Znalezienie szablonu któy będzie bazą strony internetowej
 
 17.11.23 Rozpoczęcie pracy nad stroną internetową. Uzupełnienie informacji o mnie w projekcie. Zadbanie o elementy graficzne
