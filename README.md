@@ -13,3 +13,5 @@
 26.11.23 Aktualizacja metatagów (keywords), ponowna próba indeksowania strony na Bing
 
 01.12.23 Dodanie do zdjęć atrybutów alt na prośbę wyszukiwarki Bing, ponowna próba zaindeksowania w wyszukiwarce Bing, próba dodania strony dowyszukiwarki Brave przy pomocy Projekt Web Disovery. Dodanie meta tagu <meta property="og:locale" content="pl_PL"> oraz linku kanonicznego
+
+03.01.24 Dodanie linku kolegi z zespołu
